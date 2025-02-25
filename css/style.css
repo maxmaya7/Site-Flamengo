@@ -51,3 +51,7 @@ img
     border-right: 1px solid gray;
     float: left;
 }
+li a:hover
+{
+    background-color: black;
+}
